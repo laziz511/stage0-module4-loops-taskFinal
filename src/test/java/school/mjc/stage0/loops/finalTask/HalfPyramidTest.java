@@ -1,7 +1,7 @@
 package school.mjc.stage0.loops.finalTask;
 
 import school.mjc.stage0.base.BaseIOTest;
-import org.junit.jupiter.api.Test;
+import org.junit.jupiter.api.Test; 
 
 class HalfPyramidTest extends BaseIOTest {
 
