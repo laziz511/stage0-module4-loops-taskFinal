@@ -5,7 +5,7 @@ public class Power {
         int a = numberToPrint;
         for(int i =1; i<power;i++){
             a *= numberToPrint;
-        }
+        } 
         System.out.println(a);
     }
 
